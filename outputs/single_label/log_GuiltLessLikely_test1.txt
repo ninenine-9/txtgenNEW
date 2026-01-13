@@ -1,0 +1,23 @@
+
+==================================================
+         Evaluation Report for: GuiltLessLikely
+==================================================
+
+Runtime duration: 12.50 seconds
+
+Human Pno count: 346
+Model Pno count: 346
+
+Total Participants Compared: 346
+(Human had 31 'Yes' and 315 'No' values)
+
+--- Standard Classification Metrics (Positive Class = 'Yes') ---
+Precision: 41.67%
+Recall:    48.39%
+F1-Score:  44.78%
+
+--- Detailed Match Analysis ---
+% of correct 'Yes' matches (Recall): 48.39%
+% of correct 'No' matches (Specificity): 93.33%
+Total % of matches (Overall Accuracy): 89.31%
+==================================================
