@@ -1,0 +1,23 @@
+
+==================================================
+         Evaluation Report for: Confound
+==================================================
+
+Runtime duration: 12.50 seconds
+
+Human Pno count: 346
+Model Pno count: 346
+
+Total Participants Compared: 346
+(Human had 22 'Yes' and 324 'No' values)
+
+--- Standard Classification Metrics (Positive Class = 'Yes') ---
+Precision: 100.00%
+Recall:    4.55%
+F1-Score:  8.70%
+
+--- Detailed Match Analysis ---
+% of correct 'Yes' matches (Recall): 4.55%
+% of correct 'No' matches (Specificity): 100.00%
+Total % of matches (Overall Accuracy): 93.93%
+==================================================
