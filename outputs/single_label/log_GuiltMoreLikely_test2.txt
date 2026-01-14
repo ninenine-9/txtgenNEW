@@ -1,0 +1,27 @@
+
+==================================================
+         Evaluation Report for: GuiltMoreLikely
+==================================================
+
+Runtime duration: 12.50 seconds
+
+Human Pno count: 346
+Model Pno count: 346
+
+Total Participants Compared: 346
+(Human had 59 'Yes' and 287 'No' values)
+
+--- Standard Classification Metrics (Positive Class = 'Yes') ---
+
+Recall (TP - % of human Yes, how many were found):    64.41%
+Specificty (% of human No, how many were correctly rejected): 9268.29%
+Precision (% of predicted Yes that are correct): 64.41%
+F1-Score:  64.41%
+
+True positives (TP): 0
+False positives (FP): 0
+False negatives (FN): 0
+True negatives (TN): 0
+
+Total % of matches (Overall Accuracy): 87.86%
+==================================================
