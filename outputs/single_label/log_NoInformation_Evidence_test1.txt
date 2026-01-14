@@ -1,0 +1,23 @@
+
+==================================================
+         Evaluation Report for: NoInformation_Evidence
+==================================================
+
+Runtime duration: 12.50 seconds
+
+Human Pno count: 346
+Model Pno count: 346
+
+Total Participants Compared: 346
+(Human had 86 'Yes' and 260 'No' values)
+
+--- Standard Classification Metrics (Positive Class = 'Yes') ---
+Precision: 75.86%
+Recall:    25.58%
+F1-Score:  38.26%
+
+--- Detailed Match Analysis ---
+% of correct 'Yes' matches (Recall): 25.58%
+% of correct 'No' matches (Specificity): 97.31%
+Total % of matches (Overall Accuracy): 79.48%
+==================================================
