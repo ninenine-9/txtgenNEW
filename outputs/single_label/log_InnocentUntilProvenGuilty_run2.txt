@@ -1,0 +1,28 @@
+
+==================================================
+         Evaluation Report for: InnocentUntilProvenGuilty
+==================================================
+
+Human Pno count: 346
+Model Pno count: 346
+Total Participants Compared: 346
+Human coded as Yes: 9 
+Human coded as No: 337
+
+--- Standard Classification Metrics ---
+Recall (Coverage of human Yes):    22.22%
+Specificity (Correct rejection of human No): 99.11%
+Precision (Correctness of predicted Yes): 40.00%
+F1-Score:  28.57%
+Overall Accuracy: 97.11%
+
+--- Confusion Counts (% of total participants) ---
+True Positives (TP): 2 
+TP %: 0.58%
+False Positives (FP): 3 
+FP %: 0.87%
+False Negatives (FN): 7 
+FN %: 2.02%
+True Negatives (TN): 334 
+TN %: 96.53%
+==================================================
