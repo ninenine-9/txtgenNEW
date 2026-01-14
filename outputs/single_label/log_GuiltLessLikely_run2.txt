@@ -1,0 +1,28 @@
+
+==================================================
+         Evaluation Report for: GuiltLessLikely
+==================================================
+
+Human Pno count: 346
+Model Pno count: 346
+Total Participants Compared: 346
+Human coded as Yes: 31 
+Human coded as No: 315
+
+--- Standard Classification Metrics ---
+Recall (Coverage of human Yes):    48.39%
+Specificity (Correct rejection of human No): 93.33%
+Precision (Correctness of predicted Yes): 41.67%
+F1-Score:  44.78%
+Overall Accuracy: 89.31%
+
+--- Confusion Counts (% of total participants) ---
+True Positives (TP): 15 
+TP %: 4.34%
+False Positives (FP): 21 
+FP %: 6.07%
+False Negatives (FN): 16 
+FN %: 4.62%
+True Negatives (TN): 294 
+TN %: 84.97%
+==================================================
