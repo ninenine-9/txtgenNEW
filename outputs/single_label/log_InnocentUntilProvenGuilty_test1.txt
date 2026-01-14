@@ -1,0 +1,23 @@
+
+==================================================
+         Evaluation Report for: InnocentUntilProvenGuilty
+==================================================
+
+Runtime duration: 12.50 seconds
+
+Human Pno count: 346
+Model Pno count: 346
+
+Total Participants Compared: 346
+(Human had 9 'Yes' and 337 'No' values)
+
+--- Standard Classification Metrics (Positive Class = 'Yes') ---
+Precision: 40.00%
+Recall:    22.22%
+F1-Score:  28.57%
+
+--- Detailed Match Analysis ---
+% of correct 'Yes' matches (Recall): 22.22%
+% of correct 'No' matches (Specificity): 99.11%
+Total % of matches (Overall Accuracy): 97.11%
+==================================================
