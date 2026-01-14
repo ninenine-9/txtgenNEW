@@ -1,0 +1,23 @@
+
+==================================================
+         Evaluation Report for: Other
+==================================================
+
+Runtime duration: 12.50 seconds
+
+Human Pno count: 346
+Model Pno count: 346
+
+Total Participants Compared: 346
+(Human had 139 'Yes' and 207 'No' values)
+
+--- Standard Classification Metrics (Positive Class = 'Yes') ---
+Precision: 0.00%
+Recall:    0.00%
+F1-Score:  0.00%
+
+--- Detailed Match Analysis ---
+% of correct 'Yes' matches (Recall): 0.00%
+% of correct 'No' matches (Specificity): 100.00%
+Total % of matches (Overall Accuracy): 59.83%
+==================================================
