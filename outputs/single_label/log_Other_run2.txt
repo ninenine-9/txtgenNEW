@@ -1,0 +1,28 @@
+
+==================================================
+         Evaluation Report for: Other
+==================================================
+
+Human Pno count: 346
+Model Pno count: 346
+Total Participants Compared: 346
+Human coded as Yes: 139 
+Human coded as No: 207
+
+--- Standard Classification Metrics ---
+Recall (Coverage of human Yes):    0.00%
+Specificity (Correct rejection of human No): 100.00%
+Precision (Correctness of predicted Yes): 0.00%
+F1-Score:  0.00%
+Overall Accuracy: 59.83%
+
+--- Confusion Counts (% of total participants) ---
+True Positives (TP): 0 
+TP %: 0.00%
+False Positives (FP): 0 
+FP %: 0.00%
+False Negatives (FN): 139 
+FN %: 40.17%
+True Negatives (TN): 207 
+TN %: 59.83%
+==================================================
