@@ -1,0 +1,24 @@
+
+==================================================
+Permutation: original
+Label: Other
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        3.60%
+Specificity (TN / human No):    99.03%
+Precision (TP / predicted Yes): 71.43%
+F1-Score:                       6.85%
+Accuracy:                       60.69%
+
+Counts:
+True Positives (TP): 5
+TP %: 1.45%
+False Positives (FP): 2
+FP %: 0.58%
+False Negatives (FN): 134
+FN %: 38.73%
+True Negatives (TN): 205
+TN %: 59.25%
+==================================================
