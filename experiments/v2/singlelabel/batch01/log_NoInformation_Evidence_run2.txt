@@ -1,0 +1,28 @@
+
+==================================================
+         Evaluation Report for: NoInformation_Evidence
+==================================================
+
+Human Pno count: 346
+Model Pno count: 346
+Total Participants Compared: 346
+Human coded as Yes: 86 
+Human coded as No: 260
+
+--- Standard Classification Metrics ---
+Recall (Coverage of human Yes):    25.58%
+Specificity (Correct rejection of human No): 97.31%
+Precision (Correctness of predicted Yes): 75.86%
+F1-Score:  38.26%
+Overall Accuracy: 79.48%
+
+--- Confusion Counts (% of total participants) ---
+True Positives (TP): 22 
+TP %: 6.36%
+False Positives (FP): 7 
+FP %: 2.02%
+False Negatives (FN): 64 
+FN %: 18.50%
+True Negatives (TN): 253 
+TN %: 73.12%
+==================================================

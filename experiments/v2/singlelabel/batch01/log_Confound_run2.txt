@@ -1,0 +1,28 @@
+
+==================================================
+         Evaluation Report for: Confound
+==================================================
+
+Human Pno count: 346
+Model Pno count: 346
+Total Participants Compared: 346
+Human coded as Yes: 22 
+Human coded as No: 324
+
+--- Standard Classification Metrics ---
+Recall (Coverage of human Yes):    4.55%
+Specificity (Correct rejection of human No): 100.00%
+Precision (Correctness of predicted Yes): 100.00%
+F1-Score:  8.70%
+Overall Accuracy: 93.93%
+
+--- Confusion Counts (% of total participants) ---
+True Positives (TP): 1 
+TP %: 0.29%
+False Positives (FP): 0 
+FP %: 0.00%
+False Negatives (FN): 21 
+FN %: 6.07%
+True Negatives (TN): 324 
+TN %: 93.64%
+==================================================
