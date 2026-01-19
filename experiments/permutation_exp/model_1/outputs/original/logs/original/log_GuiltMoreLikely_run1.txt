@@ -1,0 +1,20 @@
+
+==================================================
+Permutation: original
+Label: GuiltMoreLikely
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        86.44%
+Specificity (TN / human No):    90.24%
+Precision (TP / predicted Yes): 64.56%
+F1-Score:                       73.91%
+Accuracy:                       89.60%
+
+Counts:
+TP: 51
+FP: 28
+FN: 8
+TN: 259
+==================================================

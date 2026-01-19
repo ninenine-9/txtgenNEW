@@ -1,0 +1,20 @@
+
+==================================================
+Permutation: original
+Label: Confound
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        0.00%
+Specificity (TN / human No):    100.00%
+Precision (TP / predicted Yes): 0.00%
+F1-Score:                       0.00%
+Accuracy:                       93.64%
+
+Counts:
+TP: 0
+FP: 0
+FN: 22
+TN: 324
+==================================================

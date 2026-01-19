@@ -1,0 +1,20 @@
+
+==================================================
+Permutation: original
+Label: InnocentUntilProvenGuilty
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        77.78%
+Specificity (TN / human No):    89.91%
+Precision (TP / predicted Yes): 17.07%
+F1-Score:                       28.00%
+Accuracy:                       89.60%
+
+Counts:
+TP: 7
+FP: 34
+FN: 2
+TN: 303
+==================================================

@@ -1,0 +1,20 @@
+
+==================================================
+Permutation: original
+Label: NoInformation_Evidence
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        73.26%
+Specificity (TN / human No):    93.85%
+Precision (TP / predicted Yes): 79.75%
+F1-Score:                       76.36%
+Accuracy:                       88.73%
+
+Counts:
+TP: 63
+FP: 16
+FN: 23
+TN: 244
+==================================================
