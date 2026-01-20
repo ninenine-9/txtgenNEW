@@ -1,0 +1,18 @@
+Code Distribution Report for permutation: shuffle_1
+==================================================
+n_labels:
+  Yes: 0 (0.00%)
+  No: 0 (0.00%)
+
+n_correct:
+  Yes: 0 (0.00%)
+  No: 0 (0.00%)
+
+n_incorrect:
+  Yes: 0 (0.00%)
+  No: 0 (0.00%)
+
+percent_correct:
+  Yes: 0 (0.00%)
+  No: 0 (0.00%)
+
