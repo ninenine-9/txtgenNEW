@@ -1,0 +1,24 @@
+
+==================================================
+Permutation: shuffle_3
+Label: InnocentUntilProvenGuilty
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        66.67%
+Specificity (TN / human No):    94.96%
+Precision (TP / predicted Yes): 26.09%
+F1-Score:                       37.50%
+Accuracy:                       94.22%
+
+Counts:
+True Positives (TP): 6
+TP %: 1.73%
+False Positives (FP): 17
+FP %: 4.91%
+False Negatives (FN): 3
+FN %: 0.87%
+True Negatives (TN): 320
+TN %: 92.49%
+==================================================
