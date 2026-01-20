@@ -1,0 +1,6 @@
+Code Distribution Report for permutation: Confound
+==================================================
+
+Confound:
+  Yes: 0 (0.00%)
+  No: 5 (100.00%)

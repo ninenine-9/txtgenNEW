@@ -1,0 +1,6 @@
+Code Distribution Report for permutation: GuiltLessLikely
+==================================================
+
+GuiltLessLikely:
+  Yes: 2 (40.00%)
+  No: 3 (60.00%)
