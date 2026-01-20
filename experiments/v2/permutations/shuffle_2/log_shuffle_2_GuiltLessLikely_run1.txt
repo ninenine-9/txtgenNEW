@@ -1,0 +1,24 @@
+
+==================================================
+Permutation: shuffle_2
+Label: GuiltLessLikely
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        29.03%
+Specificity (TN / human No):    97.46%
+Precision (TP / predicted Yes): 52.94%
+F1-Score:                       37.50%
+Accuracy:                       91.33%
+
+Counts:
+True Positives (TP): 9
+TP %: 2.60%
+False Positives (FP): 8
+FP %: 2.31%
+False Negatives (FN): 22
+FN %: 6.36%
+True Negatives (TN): 307
+TN %: 88.73%
+==================================================
