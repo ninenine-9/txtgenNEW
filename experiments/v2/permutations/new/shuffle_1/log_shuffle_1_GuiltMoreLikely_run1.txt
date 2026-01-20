@@ -1,0 +1,24 @@
+
+==================================================
+Permutation: shuffle_1
+Label: GuiltMoreLikely
+==================================================
+
+Total Participants Compared: 346
+
+Recall (TP / human Yes):        86.44%
+Specificity (TN / human No):    90.94%
+Precision (TP / predicted Yes): 66.23%
+F1-Score:                       75.00%
+Accuracy:                       90.17%
+
+Counts:
+True Positives (TP): 51
+TP %: 14.74%
+False Positives (FP): 26
+FP %: 7.51%
+False Negatives (FN): 8
+FN %: 2.31%
+True Negatives (TN): 261
+TN %: 75.43%
+==================================================
