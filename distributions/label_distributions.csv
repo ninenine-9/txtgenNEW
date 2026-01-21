@@ -1,0 +1,7 @@
+Code name,human_yes,human_no,single_label_yes,single_label_no,original_yes,original_no,shuffle_1_yes,shuffle_1_no,shuffle_2_yes,shuffle_2_no,shuffle_3_yes,shuffle_3_no,seq_original_yes,seq_original_no,seq_shuffle_1_yes,seq_shuffle_1_no,seq_shuffle_2_yes,seq_shuffle_2_no,seq_shuffle_3_yes,seq_shuffle_3_no
+GuiltMoreLikely,59,287,59,289,77,271,77,271,77,271,77,271,36,312,36,312,36,312,36,312
+GuiltLessLikely,31,315,36,312,14,334,14,334,14,334,14,334,10,338,10,338,10,338,10,338
+NoInformation_Evidence,86,260,29,319,89,259,89,259,89,259,89,259,173,175,173,175,173,175,173,175
+InnocentUntilProvenGuilty,9,337,5,343,23,325,23,325,23,325,23,325,18,330,18,330,18,330,18,330
+Confound,22,324,1,347,0,348,0,348,0,348,0,348,2,346,2,346,2,346,2,346
+Other,139,207,0,348,21,327,21,327,21,327,21,327,165,183,165,183,165,183,165,183
