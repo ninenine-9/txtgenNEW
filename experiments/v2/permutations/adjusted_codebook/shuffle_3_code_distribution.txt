@@ -1,0 +1,26 @@
+Code Distribution Report for permutation: shuffle_3
+==================================================
+
+GuiltMoreLikely:
+  Yes: 29 (8.33%)
+  No: 319 (91.67%)
+
+GuiltLessLikely:
+  Yes: 2 (0.57%)
+  No: 346 (99.43%)
+
+NoInformation_Evidence:
+  Yes: 108 (31.03%)
+  No: 240 (68.97%)
+
+InnocentUntilProvenGuilty:
+  Yes: 11 (3.16%)
+  No: 337 (96.84%)
+
+Confound:
+  Yes: 3 (0.86%)
+  No: 345 (99.14%)
+
+Other:
+  Yes: 73 (20.98%)
+  No: 275 (79.02%)
