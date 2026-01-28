@@ -1,0 +1,7 @@
+Code name,human_yes,human_no,seq_original_yes,seq_original_no,seq_shuffle_1_yes,seq_shuffle_1_no,seq_shuffle_2_yes,seq_shuffle_2_no,seq_shuffle_3_yes,seq_shuffle_3_no
+GuiltMoreLikely,55,293,55,293,20,328,31,317,29,319
+GuiltLessLikely,15,333,15,333,0,348,14,334,2,346
+NoInformation_Evidence,77,271,77,271,82,266,100,248,108,240
+InnocentUntilProvenGuilty,24,324,24,324,77,271,7,341,11,337
+Confound,0,348,0,348,3,345,0,348,3,345
+Other,54,294,54,294,46,302,39,309,73,275
