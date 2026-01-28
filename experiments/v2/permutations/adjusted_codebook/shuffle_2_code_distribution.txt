@@ -2,25 +2,25 @@ Code Distribution Report for permutation: shuffle_2
 ==================================================
 
 GuiltMoreLikely:
-  Yes: 31 (8.91%)
-  No: 317 (91.09%)
+  Yes: 31 (8.96%)
+  No: 315 (91.04%)
 
 GuiltLessLikely:
-  Yes: 14 (4.02%)
-  No: 334 (95.98%)
+  Yes: 14 (4.05%)
+  No: 332 (95.95%)
 
 NoInformation_Evidence:
-  Yes: 100 (28.74%)
-  No: 248 (71.26%)
+  Yes: 100 (28.90%)
+  No: 246 (71.10%)
 
 InnocentUntilProvenGuilty:
-  Yes: 7 (2.01%)
-  No: 341 (97.99%)
+  Yes: 7 (2.02%)
+  No: 339 (97.98%)
 
 Confound:
   Yes: 0 (0.00%)
-  No: 348 (100.00%)
+  No: 346 (100.00%)
 
 Other:
-  Yes: 39 (11.21%)
-  No: 309 (88.79%)
+  Yes: 39 (11.27%)
+  No: 307 (88.73%)
