@@ -1,0 +1,25 @@
+Permutation,Code,Human Yes / Model Yes,Human Yes / Model No,Human No / Model Yes,Human No / Model No,McNemar p,p_raw,McNemar p (FDR)
+shuffle_1,GuiltMoreLikely,15,15,15,15,1.0,1.0,1.0
+shuffle_1,GuiltLessLikely,0,0,0,0,1.0,1.0,1.0
+shuffle_1,NoInformation_Evidence,55,55,55,55,1.0,1.0,1.0
+shuffle_1,InnocentUntilProvenGuilty,8,8,8,8,1.0,1.0,1.0
+shuffle_1,Confound,0,0,0,0,1.0,1.0,1.0
+shuffle_1,Other,21,21,21,21,1.0,1.0,1.0
+shuffle_3,GuiltMoreLikely,20,20,20,20,1.0,1.0,1.0
+shuffle_3,GuiltLessLikely,1,1,1,1,1.0,1.0,1.0
+shuffle_3,NoInformation_Evidence,67,67,67,67,1.0,1.0,1.0
+shuffle_3,InnocentUntilProvenGuilty,5,5,5,5,1.0,1.0,1.0
+shuffle_3,Confound,0,0,0,0,1.0,1.0,1.0
+shuffle_3,Other,47,47,47,47,1.0,1.0,1.0
+shuffle_2,GuiltMoreLikely,25,25,25,25,1.0,1.0,1.0
+shuffle_2,GuiltLessLikely,7,7,7,7,1.0,1.0,1.0
+shuffle_2,NoInformation_Evidence,66,66,66,66,1.0,1.0,1.0
+shuffle_2,InnocentUntilProvenGuilty,4,4,4,4,1.0,1.0,1.0
+shuffle_2,Confound,0,0,0,0,1.0,1.0,1.0
+shuffle_2,Other,25,25,25,25,1.0,1.0,1.0
+original,GuiltMoreLikely,43,43,43,43,1.0,1.0,1.0
+original,GuiltLessLikely,9,9,9,9,1.0,1.0,1.0
+original,NoInformation_Evidence,61,61,61,61,1.0,1.0,1.0
+original,InnocentUntilProvenGuilty,6,6,6,6,1.0,1.0,1.0
+original,Confound,0,0,0,0,1.0,1.0,1.0
+original,Other,31,31,31,31,1.0,1.0,1.0
