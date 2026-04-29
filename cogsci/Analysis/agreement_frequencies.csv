@@ -1,0 +1,8 @@
+Column,GPT: Agreement,GPT: Disagreement,GPT_long: Agreement,GPT_long: Disagreement,Mistral: Agreement,Mistral: Disagreement,Qwen: Agreement,Qwen: Disagreement
+GuiltMoreLikely,310,36,313,33,299,47,318,28
+GuiltLessLikely,316,30,312,34,301,45,318,28
+NoInformation_Evidence,294,52,311,35,295,51,305,41
+InnocentUntilProvenGuilty,326,20,325,21,302,44,325,21
+Confound,324,22,321,25,321,25,324,22
+Other,238,108,243,103,216,130,217,129
+Overall,1808,268,1825,251,1734,342,1807,269
