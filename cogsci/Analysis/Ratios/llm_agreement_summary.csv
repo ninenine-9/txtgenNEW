@@ -1,0 +1,29 @@
+LLM,Label,Agreements,Disagreements,Total,Pct_Agreement
+GPT-short,GuiltMoreLikely,310,36,346,89.6
+GPT-short,GuiltLessLikely,316,30,346,91.3
+GPT-short,NoInformation_Evidence,294,52,346,85.0
+GPT-short,InnocentUntilProvenGuilty,326,20,346,94.2
+GPT-short,Confound,324,22,346,93.6
+GPT-short,Other,238,108,346,68.8
+GPT-short,ALL LABELS,1808,268,2076,87.1
+GPT-long,GuiltMoreLikely,313,33,346,90.5
+GPT-long,GuiltLessLikely,312,34,346,90.2
+GPT-long,NoInformation_Evidence,311,35,346,89.9
+GPT-long,InnocentUntilProvenGuilty,325,21,346,93.9
+GPT-long,Confound,321,25,346,92.8
+GPT-long,Other,243,103,346,70.2
+GPT-long,ALL LABELS,1825,251,2076,87.9
+Mistral,GuiltMoreLikely,299,47,346,86.4
+Mistral,GuiltLessLikely,301,45,346,87.0
+Mistral,NoInformation_Evidence,295,51,346,85.3
+Mistral,InnocentUntilProvenGuilty,302,44,346,87.3
+Mistral,Confound,321,25,346,92.8
+Mistral,Other,216,130,346,62.4
+Mistral,ALL LABELS,1734,342,2076,83.5
+Qwen,GuiltMoreLikely,318,28,346,91.9
+Qwen,GuiltLessLikely,318,28,346,91.9
+Qwen,NoInformation_Evidence,305,41,346,88.2
+Qwen,InnocentUntilProvenGuilty,325,21,346,93.9
+Qwen,Confound,324,22,346,93.6
+Qwen,Other,217,129,346,62.7
+Qwen,ALL LABELS,1807,269,2076,87.0
