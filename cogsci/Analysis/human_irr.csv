@@ -1,0 +1,8 @@
+Column,Total,Agreement,Disagreement,% Agreement,Cohen's κ (est)
+GuiltMoreLikely,363,355,8,97.8,95.59
+GuiltLessLikely,363,353,10,97.25,94.49
+NoInformation_Evidence,363,357,6,98.35,96.69
+InnocentUntilProvenGuilty,363,361,2,99.45,98.9
+Confound,363,362,1,99.72,99.45
+Other,363,354,9,97.52,95.04
+Overall,2178,2142,36,98.35,96.69
