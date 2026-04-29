@@ -1,0 +1,8 @@
+Column,GPT % match to Human,Mistral % match to Human,Qwen % match to Human,GPT (long) % match to Human
+GuiltMoreLikely,89.6,86.42,91.91,90.46
+GuiltLessLikely,91.33,86.99,91.91,90.17
+NoInformation_Evidence,84.97,85.26,88.15,89.88
+InnocentUntilProvenGuilty,94.22,87.28,93.93,93.93
+Confound,93.64,92.77,93.64,92.77
+Other,68.79,62.43,62.72,70.23
+Overall (per-Pno avg),87.09,83.53,87.04,87.91

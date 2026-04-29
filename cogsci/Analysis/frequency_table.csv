@@ -1,0 +1,7 @@
+Column,Human: Yes,GPT: Yes,GPT: Yes & matches Human,MISTRAL: Yes,MISTRAL: Yes & matches Human,QWEN: Yes,QWEN: Yes & matches Human,GPT_LONG: Yes,GPT_LONG: Yes & matches Human
+GuiltMoreLikely,59,89,56,96,54,55,43,82,54
+GuiltLessLikely,31,59,30,52,19,15,9,49,23
+NoInformation_Evidence,86,124,79,123,79,77,61,105,78
+InnocentUntilProvenGuilty,9,29,9,51,8,24,6,30,9
+Confound,22,24,12,11,4,0,0,31,14
+Other,139,43,37,11,10,52,31,66,51
